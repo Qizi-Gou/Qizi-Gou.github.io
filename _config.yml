@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Gou-Qizi # the main title
 
-tagline: 个人分享 # it will display as the subtitle
+tagline: 个人分享，请多指教 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
