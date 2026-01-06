@@ -1,8 +1,8 @@
 ---
 title: 第一篇博客
-date: 2026-01-06 +0800
-categories: [ToDo, Test]
-tags:    # TAG names should always be lowercase
+date: 2026-01-06 00:00:00 +0800
+categories: [todo, test]
+tags: [jekyll, chirpy]    # TAG names should always be lowercase
 ---
 第一次使用Jekyll+Github+chirpy三方主题部署个人博客网站。
 
